@@ -64,6 +64,6 @@ struct Card{
         UIImage(named: "JD")!,
         UIImage(named: "QD")!,
         UIImage(named: "KD")!,
-        UIImage(named: "AD")
+        UIImage(named: "AD")!
     ]
 }

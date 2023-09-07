@@ -30,9 +30,9 @@ class CardSelectionVC: UIViewController {
         //restartButton.layer.cornerRadius = 8
         //rulesButton.layer.cornerRadius = 8
         startTimer()
-        for button in buttons {
-            button.layer.cornerRadius = 8
-        }
+//        for button in buttons {
+//            button.layer.cornerRadius = 8
+//        }
     }
     
     func startTimer(){
